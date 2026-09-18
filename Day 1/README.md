@@ -182,6 +182,8 @@ b_{\text{old}}
 $$
 
 where \(\eta\) represents the learning rate.
+<img width="460" height="375" alt="image" src="https://github.com/user-attachments/assets/047cc164-5292-4931-b745-17731803ac17" />
+
 
 ---
 
