@@ -111,7 +111,7 @@ For example, the first neural-network implementation is built using NumPy before
 | 03  | Logistic Regression + Binary Classification | Completed   |
 | 04  | Neural Network From Scratch                 | Completed   |
 | 05  | Backpropagation Deep Dive                   | Completed   |
-| 06  | PyTorch Fundamentals                        | Upcoming    |
+| 06  | PyTorch Fundamentals                        | Completed   |
 | 07  | Training Neural Networks                    | Upcoming    |
 | 08  | Improving Neural Networks                   | Upcoming    |
 | 09  | CNN Fundamentals                            | Upcoming    |
