@@ -112,7 +112,7 @@ For example, the first neural-network implementation is built using NumPy before
 | 04  | Neural Network From Scratch                 | Completed   |
 | 05  | Backpropagation Deep Dive                   | Completed   |
 | 06  | PyTorch Fundamentals                        | Completed   |
-| 07  | Training Neural Networks                    | Upcoming    |
+| 07  | Training Neural Networks                    | Completed   |
 | 08  | Improving Neural Networks                   | Upcoming    |
 | 09  | CNN Fundamentals                            | Upcoming    |
 | 10  | CNN Project                                 | Upcoming    |
